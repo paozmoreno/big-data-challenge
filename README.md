@@ -17,9 +17,10 @@ Extracted 3,105,520 Records
 
 ### Load
 
-![alt text](level-1/images/pet_products_db_schema.png)
-![image](https://user-images.githubusercontent.com/98370960/191398614-91ec0791-6dc4-41c5-a299-813d17644180.png)
-![alt text](level-1/images/pet_prod_review_id_table_query.png)
+![image](level-1/images/book_load_review.png)
+![image](level-1/images/book_load_product.png)
+![image](level-1/images/book_load_customer.png)
+![image](level-1/images/book_load_vine.png)
 
 ## ETL - Beauty Product Reviews
 ### Extract
@@ -33,6 +34,7 @@ Extracted 5,115,666 Records
 
 ### Load
 
-![alt text](level-1/images/pet_products_db_schema.png)
-![image](https://user-images.githubusercontent.com/98370960/191398614-91ec0791-6dc4-41c5-a299-813d17644180.png)
-![alt text](level-1/images/pet_prod_review_id_table_query.png)
+![image](level-1/images/beauty_load_review.png)
+![image](level-1/images/beauty_load_product.png)
+![image](level-1/images/beauty_load_customer.png)
+![image](level-1/images/beauty_load_vine.png)
