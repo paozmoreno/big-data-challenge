@@ -14,7 +14,6 @@ The purpose of this assignment was to use cloud ETL on two of Amazon's customer 
 ![image](level-1/images/book_product.png)
 ![image](level-1/images/book_customer.png)
 ![image](level-1/images/book_vine.png)
-![image](https://user-images.githubusercontent.com/98370960/191393668-88170edf-5d66-4db9-a6ad-062148925e2f.png)
 
 ### Load
 
