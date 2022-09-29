@@ -28,8 +28,8 @@ Extracted 5,115,666 Records
 
 ### Transform
 ![image](level-1/images/beauty_review.png)
-![image](level-1/images/beauty_product.png)
-![image](level-1/images/beauty_customer.png)
+![image](level-1/images/beauty_customers.png)
+![image](level-1/images/beauty_products.png)
 ![image](level-1/images/beauty_vine.png)
 
 ### Load
