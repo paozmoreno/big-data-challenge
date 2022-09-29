@@ -18,8 +18,8 @@ Extracted 3,105,520 Records
 ### Load
 
 ![image](level-1/images/book_load_review.png)
-![image](level-1/images/book_load_products.png)
 ![image](level-1/images/book_load_customers.png)
+![image](level-1/images/book_load_products.png)
 ![image](level-1/images/book_load_vine.png)
 
 ## ETL - Beauty Product Reviews
