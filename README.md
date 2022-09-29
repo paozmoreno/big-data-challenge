@@ -26,10 +26,10 @@ Extracted 3,105,520 Records
 Extracted 5,115,666 Records
 
 ### Transform
-![image](level-1/images/book_review.png)
-![image](level-1/images/book_product.png)
-![image](level-1/images/book_customer.png)
-![image](level-1/images/book_vine.png)
+![image](level-1/images/beauty_review.png)
+![image](level-1/images/beauty_product.png)
+![image](level-1/images/beauty_customer.png)
+![image](level-1/images/beauty_vine.png)
 
 ### Load
 
